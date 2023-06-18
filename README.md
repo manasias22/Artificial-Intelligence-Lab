@@ -1,4 +1,4 @@
-# Aritficial-Intelligence-Lab
+# Artificial-Intelligence-Lab
 Discrete Maths and Data Structure and Algorithm
 
 
