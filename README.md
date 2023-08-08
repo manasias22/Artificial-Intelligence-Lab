@@ -13,7 +13,7 @@ To apply appropriate search techniques used in problem solving
 3
 To create knowledge base for uncertain data
 
-### <H4> Lab Outcomes: 
+### <H3> Lab Outcomes: 
 
 At the end of the course, the students will be able to   
 
