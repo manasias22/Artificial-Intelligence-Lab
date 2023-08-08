@@ -1,8 +1,8 @@
-# Artificial-Intelligence-Lab
-**##Discrete Maths and Data Structure and Algorithm**
+# <H1> Artificial-Intelligence-Lab
+** ## <H2> Discrete Maths and Data Structure and Algorithm**
 
 
-###Lab Objectives:
+###<H3>Lab Objectives:
 
 1
 To realize the basic techniques to build intelligent systems
