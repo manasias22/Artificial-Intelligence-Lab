@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Lab
-Discrete Maths and Data Structure and Algorithm
+**Discrete Maths and Data Structure and Algorithm**
 
 
 Lab Objectives:
