@@ -1,5 +1,5 @@
 # <H1> Artificial Intelligence Lab
- Discrete Maths and Data Structure and Algorithm
+ _Prequisite:- Discrete Maths and Data Structure and Algorithm_
 
 
 ### <H3> Lab Objectives:
